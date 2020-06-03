@@ -6,4 +6,4 @@ WIlsON is an interactive workbench for analysis and visualization of multi-omics
 
 Paper: https://academic.oup.com/bioinformatics/article/35/6/1055/5078467
 
-Docker: https://hub.docker. com/r/loosolab/wilson
+Docker: https://hub.docker.com/r/loosolab/wilson
